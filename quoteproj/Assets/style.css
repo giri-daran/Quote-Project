@@ -19,7 +19,6 @@ body{
     text-align: center;
     
 }
-
 .heading h4{
     text-transform: uppercase;
     font-family:"calibri", sans-serif ;
@@ -50,7 +49,6 @@ body{
     color: chocolate;
     font-size: 25px;
 }
-
 button.submt-qute{
     background-color: rgb(2, 235, 235);
     padding: 10px 20px;
