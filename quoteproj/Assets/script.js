@@ -23,7 +23,8 @@ const qoote=[
 {
     quote:`“Outside the windows the day was bright: golden sunshine, blue sky, pleasant wind... I wanted to punch the happy day in the face, grab it by the hair, and beat it until it told me what the hell it was so happy about.” `,
     Author:` ―Ilona Andrews`,
-},];
+},
+];
 
 BTn.addEventListener('click', function(){
 
@@ -31,4 +32,4 @@ BTn.addEventListener('click', function(){
     
     quote.innerText= qoote[randm].quote;
     Author.innerText=qoote[randm].Author; 
-})
+});
